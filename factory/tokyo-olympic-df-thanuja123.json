@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-df-thanuja123",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9ae3514f-c0bf-40c0-a531-1cf6aeecfe55",
+		"tenantId": "1f7a99ac-c6ca-4f92-bd07-676baa48a72c"
+	}
+}
